@@ -1,6 +1,6 @@
 # Präambel
 1. HerrLoesch hat immer recht.
-2. Jedwedes Geld, dass mit diesem Dokument verdient wird steht nur HerrLoesch zu und muss nicht geteilt werden.
+2. Jedwedes Geld das mit diesem Dokument verdient wird steht nur HerrLoesch zu und muss nicht geteilt werden.
 3. Jeder kann sich beteiligen in dem er Pull Requests stellt.
 4. Aufgrund von 1. darf HerrLoesch PRs ohne Nennung von Gründen ablehnen.
 5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten kann er oder sie gleich auf einen PR verzichten...
@@ -9,7 +9,7 @@
 
 # Fragiles Manifest
 ## Prinzipien
-Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung dar. Sie sind nach Wichtigkeit geordnet.
+Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung dar. Sie sind nach Wichtigkeit geordnet und es ist davon auszugehen, dass die Punkte auf der rechten Seite nahezu unwichtig und die Punkte auf der linken Seite in höchstem Maße bedeutend sind.
 
 * Kurzfristiger Profit zählt mehr als funktionierende Software, geschweige denn irgendwelche Form von Dokumentation.
 * Reagieren auf Veränderung ist wichtiger als jede Form von Plan.
