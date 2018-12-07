@@ -6,6 +6,12 @@
 5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten kann er oder sie gleich auf einen PR verzichten...
 6. Wer dieses Dokument ernst nimmt, ist selbst schuld.
 
+# Zertifizierung
+## Reifegrade
+* Fragile Practitioner
+* Fragile Professional 
+* Fragile Expert
+
 
 # Fragiles Manifest
 ## Prinzipien
@@ -34,9 +40,3 @@ Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit h
 
 ## Artefakte
 ...
-
-# Zertifizierung
-## Reifegrade
-* Fragile Practitioner
-* Fragile Professional 
-* Fragile Expert
