@@ -6,6 +6,8 @@
 5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten kann er oder sie gleich auf einen PR verzichten...
 6. Wer dieses Dokument ernst nimmt, ist selbst schuld.
 
+Vielen Dank an Tobias D. für die Idee, auch wenn er seinen Namen hier nicht in voller Gänze lesen möchte.
+
 # Zertifizierung
 ## Reifegrade
 * Fragile Practitioner
@@ -18,9 +20,9 @@
 Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung dar. Sie sind nach Wichtigkeit geordnet und es ist davon auszugehen, dass die Punkte auf der rechten Seite nahezu unwichtig und die Punkte auf der linken Seite in höchstem Maße bedeutend sind.
 
 * Kurzfristiger Profit zählt mehr als funktionierende Software, geschweige denn irgendwelche Form von Dokumentation.
-* Reagieren auf Veränderung ist wichtiger als jede Form von Plan.
-* Selbstbestimmtes Handel ist wichtiger als die Kommunikation mit anderen Personen.
-* Falschen Anforderungen sind immer besser als überhaupt keine Anforderungen.
+* Reagieren auf Veränderung ist wichtiger als irgend welche Pläne.
+* Selbstbestimmtes Handeln ist wichtiger als die Kommunikation mit anderen Personen.
+* Falsche Anforderungen umzusetzen ist besser als überhaupt keine Anforderungen zu haben.
 
 ## Regeln
 Wärend Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fall einzuhalten.
