@@ -40,6 +40,12 @@ Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. 
 ### SCUM Master
 Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit harter Hand für die Einhaltung des aktuell gültigen Prozesses. Wechselnd stellt er durch Micromanagement und eigenverantwortliches Handeln der Untergebenen deren gleichbleibend hohe Leistungsfähigkeit sicher.
 
+### Product Owner
+Jeder der am Produkt beteiligt ist gilt als Product Owner und kann eigenständig zur Verbesserung der Software beitragen. Hierzu können sie entweder andere Product Owner direkt anweisen oder sie nehmen die notwendigen Änderungen gleich an Ort und Stelle vor, falls sie denn über die notwendigen Kompetenzen verfügen.
+
+### Early Adopter
+Early Adopter sind die Grundpfeiler der Qualitätssicherung in der fragilen Softwareentwicklung, denn nur sie können einschätzen wie der Arbeitsprozess an die neuen Fähigkeiten der Software angepasst werden muss. Sollten Fehler auftreten, die ein Arbeiten mit der Applikation unmöglichen machen, so ist es die Pflicht des Early Adopters andere Product Owner auf jenen Umstand hinzuweisen. Dies geschieht möglichst zeitnah per Telefon und mit der notwendigen Schärfe in der Wortwahl um ein zügiges Beheben der Problemstellen voran zu treiben.
+
 ## Events
 ...
 
