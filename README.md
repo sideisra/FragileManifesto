@@ -1,6 +1,6 @@
 # Präambel
 1. HerrLoesch hat immer recht.
-2. Jedwedes Geld, das mit diesem Dokument verdient, wird steht nur HerrLoesch zu und muss nicht geteilt werden.
+2. Jedwedes Geld, das mit diesem Dokument verdient wirdm steht nur HerrLoesch zu und muss nicht geteilt werden.
 3. Jeder kann sich beteiligen in dem er Pull Requests stellt.
 4. Aufgrund von 1. darf HerrLoesch PRs ohne Nennung von Gründen ablehnen.
 5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten, kann er oder sie sich den PR gleich sparen...
@@ -19,38 +19,42 @@ Vielen Dank an Tobias D. für die Idee, auch wenn er seinen Namen hier nicht in 
 ## Prinzipien
 Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung dar. Sie sind nach Wichtigkeit geordnet und es ist davon auszugehen, dass die Punkte auf der rechten Seite nahezu unwichtig und die Punkte auf der linken Seite in höchstem Maße bedeutend sind.
 
-* Kurzfristiger Profit zählt mehr als funktionierende Software, geschweige denn irgendwelche Form von Dokumentation.
-* Reagieren auf Veränderung ist wichtiger als irgend welche Pläne.
-* Selbstbestimmtes Handeln ist wichtiger als die Kommunikation mit anderen Personen.
-* Falsche Anforderungen umzusetzen ist besser als überhaupt keine Anforderungen zu haben.
+* Kurzfristiger Profit ist besser als funktionierende Software und Dokumentation.
+* Eine konstant steigende Menge an Features ist besser als Wartbarkeit.
+* Reagieren auf Veränderung ist besser als jede Form von Plänen.
+* Selbstbestimmtes Handeln ist besser als die Kommunikation mit anderen Personen.
+* Möglicherweise falsche Anforderungen umzusetzen ist besser als überhaupt keine Anforderungen zu haben.
+
 
 ## Regeln
 Während Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fall einzuhalten.
 
-* Entwickler und Fachexperten dürfen höchstens auf Quartalsbasis zusammenarbeiten. Dabei ist die eigene Meinung mit Klauen und Zähnen zu verteidigen.
+* Entwickler und Fachexperten dürfen nur in Ausnahmefällen zusammenarbeiten. Dabei sind die offiziellen Kommunikationswege einzuhalten um keine falschen Hoffnungen zu wecken.
 * In Diskussionen sind Sätze immer mit "Ja aber," einzuleiten insofern sie ein Argument des Feindes betreffen.
 * Jedes Pattern darf maximal einmal verwendet werden, außer es wird 1:1 kopiert.
-* Metainformationen lassen uns schwach aussehen, daher dürfen keine KPIs erfasst werden. Ausgenommen sind solche, die so verwaschen sind, dass man alles aus ihnen lesen kann.
+* Metainformationen die Rückschlüsse auf die Leistungsfähigkeit einzelner Teammitglieder zulassen, verstoßen gegen deren Persönlichkeitsrechte und dürfen somit nicht erfasst werden. Dazu gehören alle Kennzahlen wie "bearbeite Aufgaben" oder "abgeschlossene Tätigkeiten".
+* Planungen erfolgen immer auf Basis verfügbarer Arbeitsstunden, da nur so der tatsächlich mögliche Leistungsumfang korrekt erfasst werden kann.
+* Man muss den Untergebenen vertrauen. Aus diesem Grund werden Schätzungen als Ist-Werte behandelt. Ausgenommen sie erscheinen zu hoch, dann können die erfahreneren Vorgesetzten notwendige Aufwände entsprechend korrigieren.
 * Mitbestimmungsrechte ergeben sich auf Basis der Länge der Firmenzugehörigkeit und Loyalität gegenüber den Vorgesetzten.
 
 ## Rollen
 ### Fragile Process Committee
-Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. Es passt den Entwicklungsprozess an die kurzfristigen Ziele einzelner Mitglieder ggf. aber auch des Unternehmens an. Das Committee tagt je nach bedarf, kann Änderungen aber auch in Form eines E-Mailthreads bekannt geben.
+Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. Es passt den Entwicklungsprozess an die kurzfristigen Ziele einzelner Mitglieder ggf. aber auch des Unternehmens an. Das Committee tagt je nach bedarf, kann Änderungen aber auch in Form eines E-Mailthreads bekanntgeben.
 
 ### SCUM Master
-Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit harter Hand für die Einhaltung des aktuell gültigen Prozesses. Wechselnd stellt er durch Micromanagement und eigenverantwortliches Handeln der Untergebenen deren gleichbleibend hohe Leistungsfähigkeit sicher.
+Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit harter Hand für die Einhaltung des aktuell gültigen Prozesses. Wechselnd stellt er durch Micromanagement und Abwesenheit die Möglichkeit des eigenverantwortlichen Handelns der Untergebenen sowie deren gleichbleibend hohe Leistungsfähigkeit sicher.
 
 ### Product Owner
-Jeder der am Produkt beteiligt ist gilt als Product Owner und kann eigenständig zur Verbesserung der Software beitragen. Hierzu können sie entweder andere Product Owner direkt anweisen oder sie nehmen die notwendigen Änderungen gleich an Ort und Stelle vor, falls sie denn über die notwendigen Kompetenzen verfügen.
+Jeder der am Produkt beteiligt ist gilt als Product Owner und kann eigenständig zur Verbesserung der Software beitragen. Hierzu kann er entweder andere Product Owner direkt anweisen oder er nehmen die notwendigen Änderungen gleich an Ort und Stelle vor, falls er denn über die notwendigen Möglichkeiten verfügt.
 
 ### Early Adopter
-Early Adopter sind die Grundpfeiler der Qualitätssicherung in der fragilen Softwareentwicklung, denn nur sie können einschätzen wie der Arbeitsprozess an die neuen Fähigkeiten der Software angepasst werden muss. Sollten Fehler auftreten, die ein Arbeiten mit der Applikation unmöglichen machen, so ist es die Pflicht des Early Adopters andere Product Owner auf jenen Umstand hinzuweisen. Dies geschieht möglichst zeitnah per Telefon und mit der notwendigen Schärfe in der Wortwahl um ein zügiges Beheben der Problemstellen voran zu treiben.
+Early Adopter sind die Grundpfeiler der Qualitätssicherung in der fragilen Softwareentwicklung, denn nur sie können einschätzen wie der Arbeitsprozess an die neuen Fähigkeiten der Software angepasst werden muss. Sollten Fehler auftreten, die ein Arbeiten mit der Applikation unmöglichen machen, so ist es die Pflicht des Early Adopters andere Product Owner auf jenen Umstand hinzuweisen. Dies geschieht möglichst zeitnah per Telefon und mit der notwendigen Schärfe in der Wortwahl, um ein zügiges Beheben der Problemstellen voran zu treiben. In wie fern ein Fehlverhalten der Software tatsächlich arbeitsbehindern ist, liegt dabei völlig im Ermessen des Early Adopters und bedarf keiner näheren Erläuterung insofern jener die damit verbundene Eskalation gewonnen hat.
 
-Die Rolle der Early Adopter macht die fragile Softwareentwicklung so produktiv, da sie es ermöglicht das gesamte zeitliche Budget für die Umsetzung neuer Features zu nutzen.
+Hinweis: Die Rolle des Early Adopters macht die fragile Softwareentwicklung so produktiv, da sie es ermöglicht das gesamte zeitliche Budget für die Umsetzung neuer Features zu nutzen.
 
 ## Events
 ### Eskalation
-Sofern innerhalb eines Mailverkehrs keine Einigung erzielt wurde, kommt es zu einer Eskalation.
+Sofern bei strittigen Punkten keine Einigung erzielt wurde, kommt es zu einer Eskalation.
 * Eskalationen werden nicht geplant, sondern folgen dem aleatorischen Prinzip.
 * Es müssen nicht alle Entscheider anwesend sein, was Optionen für nachträglichen Änderungen offen lässt.
 * Die Eskalation gewinnt, wer den Entscheider in der höchsten Ebene von den eigenen Argumenten überzeugen kann.
@@ -76,3 +80,4 @@ Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread f
 
 ## Praxistipps
 * Produktivumgebung und Testumgebung sind nach möglichkeit ein und das selbe um den Aufwand bei der Erstellung von Tests zu verringern. Wenn sie aus irgend einem Grund doch getrennt sind, ist die Produktivumgebung aktueller zu halten als die Testumgebung um Anpassungen an den Tests zu vermeiden.
+* Sollten Personen an mehreren Projekten beteiligt sein ergibt siche ihre mögliche Auslastung je Projekt aus "Verfügbare Stunden" / "Anzahl der Projekte" + "Motivationsbonus". Letzterer kann durch disziplinarische Maßnahmen nach einer erfolgten Verweigerung gesteigert werden.
