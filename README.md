@@ -54,7 +54,7 @@ Early Adopter sind die Grundpfeiler der Qualitätssicherung in der fragilen Soft
 ...
 
 ### E-Mail Thread
-Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread für einen einheitlichen Broadcast von Informationen an jeden den es interessiert. Hierzu sind folgende Spielregeln einzuhalten:
+Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread für einen einheitlichen Broadcast von Informationen an jeden den es interessieren könnte. Hierzu sind folgende Verhaltensregeln einzuhalten:
 * Um einen Fork des Threads zu vermeiden muss immer in einheitlichen Zeitabstand und niemals parallel geantwortet werden.
 * Antworten sind grundsätzlich an alle Personen im E-Mailverteiler zu richten.
-* Antworten in den Aussagen anderer Personen sind farblich hervor zu heben.
+* Beschreibungen sind möglichst farblich einheitlich und direkt unterhalb der Ursprungsaussage einzubringen.
