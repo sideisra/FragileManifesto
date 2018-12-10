@@ -4,7 +4,7 @@
 3. Jeder kann sich beteiligen in dem er Pull Requests stellt.
 4. Aufgrund von 1. darf HerrLoesch PRs ohne Nennung von Gründen ablehnen.
 5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten, kann er oder sie sich den PR gleich sparen...
-6. Wer dieses Dokument ernst nimmt, ist selbst schuld.
+6. Wer dieses Dokument ernst nimmt, ist selbst schuld da es sich um eine ironische Aufarbeitung gängiger Fehlpraktiken in unserer Industrie handelt. Es bezieht sich demnach nicht auf konkrete Arbeitsverhältnisse oder Auftraggeber der Contributer.
 
 Vielen Dank an Tobias D. für die Idee, auch wenn er seinen Namen hier nicht in voller Gänze lesen möchte.
 
@@ -27,9 +27,9 @@ Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung da
 
 
 ## Regeln
-Während Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fall einzuhalten.
+Während Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fall einzuhalten und Verletzungen mit voller Härte zu begegnen.
 
-* Entwickler und Fachexperten dürfen nur in Ausnahmefällen zusammenarbeiten. Dabei sind die offiziellen Kommunikationswege einzuhalten um keine falschen Hoffnungen zu wecken.
+* Entwickler und Fachexperten dürfen nur in Ausnahmefällen zusammenarbeiten. Dabei sind die offiziellen Kommunikationswege einzuhalten, um keine falschen Hoffnungen zu wecken.
 * In Diskussionen sind Sätze immer mit "Ja aber," einzuleiten insofern sie ein Argument des Feindes betreffen.
 * Jedes Pattern darf maximal einmal verwendet werden, außer es wird 1:1 kopiert.
 * Metainformationen die Rückschlüsse auf die Leistungsfähigkeit einzelner Teammitglieder zulassen, verstoßen gegen deren Persönlichkeitsrechte und dürfen somit nicht erfasst werden. Dazu gehören alle Kennzahlen wie "bearbeite Aufgaben" oder "abgeschlossene Tätigkeiten".
@@ -39,7 +39,7 @@ Während Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fal
 
 ## Rollen
 ### Fragile Process Committee
-Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. Es passt den Entwicklungsprozess an die kurzfristigen Ziele einzelner Mitglieder ggf. aber auch des Unternehmens an. Das Committee tagt je nach bedarf, kann Änderungen aber auch in Form eines E-Mailthreads bekanntgeben.
+Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. Es passt den Entwicklungsprozess an die kurzfristigen Ziele einzelner Mitglieder ggf. aber auch des Unternehmens an. Das Committee tagt je nach Bedarf, kann Änderungen aber auch in Form eines E-Mailthreads bekanntgeben.
 
 ### SCUM Master
 Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit harter Hand für die Einhaltung des aktuell gültigen Prozesses. Wechselnd stellt er durch Micromanagement und Abwesenheit die Möglichkeit des eigenverantwortlichen Handelns der Untergebenen sowie deren gleichbleibend hohe Leistungsfähigkeit sicher.
@@ -56,14 +56,14 @@ Hinweis: Die Rolle des Early Adopters macht die fragile Softwareentwicklung so p
 ### Eskalation
 Sofern bei strittigen Punkten keine Einigung erzielt wurde, kommt es zu einer Eskalation.
 * Eskalationen werden nicht geplant, sondern folgen dem aleatorischen Prinzip.
-* Es müssen nicht alle Entscheider anwesend sein, was Optionen für nachträglichen Änderungen offen lässt.
+* Es müssen nicht alle Entscheider anwesend sein, was Optionen für nachträglichen Änderungen offenlässt.
 * Die Eskalation gewinnt, wer den Entscheider in der höchsten Ebene von den eigenen Argumenten überzeugen kann.
 * Die Weitergabe der wichtigsten Aspekte geschieht rein mündlich und auf informelle Art und Weise.
 
 ### Lessons Learned
 Es wird nach jedem Projekt ein Lessons Learned durchgeführt.
 * Verfehlungen sind namentlich zu adressieren damit die jeweilige Person und alle Beteiligten aus diesen Fehlern lernen können.
-* Jeder, der in irgend einer Form am Projekt beteiligt ist oder war, sollte anwesend sein um sich einen Überblick über die Verfehlungen alle Projektbeteiligten machen zu können.
+* Jeder, der in irgendeiner Form am Projekt beteiligt ist oder war, sollte anwesend sein, um sich einen Überblick über die Verfehlungen alle Projektbeteiligten machen zu können.
 * Die Weitergabe der wichtigsten Aspekte geschieht rein mündlich und auf informelle Art und Weise.
 
 
@@ -79,5 +79,5 @@ Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread f
 * Beschreibungen sind möglichst farblich einheitlich und direkt unterhalb der Ursprungsaussage einzubringen.
 
 ## Praxistipps
-* Produktivumgebung und Testumgebung sind nach möglichkeit ein und das selbe um den Aufwand bei der Erstellung von Tests zu verringern. Wenn sie aus irgend einem Grund doch getrennt sind, ist die Produktivumgebung aktueller zu halten als die Testumgebung um Anpassungen an den Tests zu vermeiden.
-* Sollten Personen an mehreren Projekten beteiligt sein ergibt siche ihre mögliche Auslastung je Projekt aus "Verfügbare Stunden" / "Anzahl der Projekte" + "Motivationsbonus". Letzterer kann durch disziplinarische Maßnahmen nach einer erfolgten Verweigerung gesteigert werden.
+* Produktivumgebung und Testumgebung sind nach Möglichkeit ein und dasselbe, um den Aufwand bei der Erstellung von Tests zu verringern. Wenn sie aus irgendeinem Grund doch getrennt sind, ist die Produktivumgebung aktueller zu halten als die Testumgebung um Anpassungen an den Tests zu vermeiden.
+* Sollten Personen an mehreren Projekten beteiligt sein ergibt sich ihre mögliche Auslastung je Projekt aus "Verfügbare Stunden" / "Anzahl der Projekte" + "Motivationsbonus". Letzterer kann durch disziplinarische Maßnahmen nach einer erfolgten Verweigerung gesteigert werden.
