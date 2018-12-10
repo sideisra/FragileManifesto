@@ -51,13 +51,14 @@ Die Rolle der Early Adopter macht die fragile Softwareentwicklung so produktiv, 
 ## Events
 ### Eskalation
 Sofern innerhalb eines Mailverkehrs keine Einigung erzielt wurde, kommt es zu einer Eskalation.
-* Eskalationen werden nicht geplant, sondern folgenden dem aleatorischen Prinzip
+* Eskalationen werden nicht geplant, sondern folgen dem aleatorischen Prinzip.
 * Es müssen nicht alle Entscheider anwesend sein, was Optionen für nachträglichen Änderungen offen lässt.
+* Die Eskalation gewinnt, wer den Entscheider in der höchsten Ebene von den eigenen Argumenten überzeugen kann.
 * Die Weitergabe der wichtigsten Aspekte geschieht rein mündlich und auf informelle Art und Weise.
 
 ### Lessons Learned
 Es wird nach jedem Projekt ein Lessons Learned durchgeführt.
-* Verfehlungen sind namentlich zu adressieren, damit die jeweile Person und alle Beteiligten aus diesen Fehlern lernen können.
+* Verfehlungen sind namentlich zu adressieren damit die jeweilige Person und alle Beteiligten aus diesen Fehlern lernen können.
 * Jeder, der in irgend einer Form am Projekt beteiligt ist oder war, sollte anwesend sein um sich einen Überblick über die Verfehlungen alle Projektbeteiligten machen zu können.
 * Die Weitergabe der wichtigsten Aspekte geschieht rein mündlich und auf informelle Art und Weise.
 
