@@ -1,6 +1,6 @@
 # Präambel
 1. HerrLoesch hat immer recht.
-2. Jedwedes Geld, das mit diesem Dokument verdient wirdm steht nur HerrLoesch zu und muss nicht geteilt werden.
+2. Jedwedes Geld, das mit diesem Dokument verdient wird, steht nur HerrLoesch zu und muss nicht geteilt werden.
 3. Jeder kann sich beteiligen in dem er Pull Requests stellt.
 4. Aufgrund von 1. darf HerrLoesch PRs ohne Nennung von Gründen ablehnen.
 5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten, kann er oder sie sich den PR gleich sparen...
@@ -19,7 +19,7 @@ Vielen Dank an Tobias D. für die Idee, auch wenn er seinen Namen hier nicht in 
 ## Prinzipien
 Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung dar. Sie sind nach Wichtigkeit geordnet und es ist davon auszugehen, dass die Punkte auf der rechten Seite nahezu unwichtig und die Punkte auf der linken Seite in höchstem Maße bedeutend sind.
 
-* Kurzfristiger Profit ist besser als funktionierende Software und Dokumentation.
+* Kurzfristiger Profit ist besser als funktionierende Software und jedwede Dokumentation.
 * Eine konstant steigende Menge an Features ist besser als Wartbarkeit.
 * Reagieren auf Veränderung ist besser als jede Form von Plänen.
 * Selbstbestimmtes Handeln ist besser als die Kommunikation mit anderen Personen.
