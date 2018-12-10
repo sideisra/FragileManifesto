@@ -1,9 +1,9 @@
 # Präambel
 1. HerrLoesch hat immer recht.
-2. Jedwedes Geld das mit diesem Dokument verdient wird steht nur HerrLoesch zu und muss nicht geteilt werden.
+2. Jedwedes Geld, das mit diesem Dokument verdient, wird steht nur HerrLoesch zu und muss nicht geteilt werden.
 3. Jeder kann sich beteiligen in dem er Pull Requests stellt.
 4. Aufgrund von 1. darf HerrLoesch PRs ohne Nennung von Gründen ablehnen.
-5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten kann er oder sie sich den PR gleich sparen...
+5. Sollte jemand anderes als HerrLoesch diese Präambel bearbeiten, kann er oder sie sich den PR gleich sparen...
 6. Wer dieses Dokument ernst nimmt, ist selbst schuld.
 
 Vielen Dank an Tobias D. für die Idee, auch wenn er seinen Namen hier nicht in voller Gänze lesen möchte.
@@ -35,7 +35,7 @@ Während Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fal
 
 ## Rollen
 ### Fragile Process Committee
-Das Fragile Process Committee ist eine lose Sammlung weisunsbefugter Personen. Es passt den Entwicklungsprozess an die kurzfristigen Ziele einzelner Mitglieder ggf. aber auch des Unternehmens an. Das Committee tagt je nach bedarf, kann Änderungen aber auch in Form eines E-Mailthreads bekannt geben.
+Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. Es passt den Entwicklungsprozess an die kurzfristigen Ziele einzelner Mitglieder ggf. aber auch des Unternehmens an. Das Committee tagt je nach bedarf, kann Änderungen aber auch in Form eines E-Mailthreads bekannt geben.
 
 ### SCUM Master
 Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit harter Hand für die Einhaltung des aktuell gültigen Prozesses. Wechselnd stellt er durch Micromanagement und eigenverantwortliches Handeln der Untergebenen deren gleichbleibend hohe Leistungsfähigkeit sicher.
@@ -49,6 +49,6 @@ Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit h
 
 ### E-Mail Thread
 Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread für einen einheitlichen Broadcast von Informationen an jeden den es interessiert. Hierzu sind folgende Spielregeln einzuhalten:
-* Um einen Fork des Threads zu vermeiden muss immer in einheitlichen Zeitabstand und niemals parallel genatwortet werden.
+* Um einen Fork des Threads zu vermeiden muss immer in einheitlichen Zeitabstand und niemals parallel geantwortet werden.
 * Antworten sind grundsätzlich an alle Personen im E-Mailverteiler zu richten.
 * Antworten in den Aussagen anderer Personen sind farblich hervor zu heben.
