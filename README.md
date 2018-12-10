@@ -40,6 +40,14 @@ Das Fragile Process Committee ist eine lose Sammlung weisungsbefugter Personen. 
 ### SCUM Master
 Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit harter Hand für die Einhaltung des aktuell gültigen Prozesses. Wechselnd stellt er durch Micromanagement und eigenverantwortliches Handeln der Untergebenen deren gleichbleibend hohe Leistungsfähigkeit sicher.
 
+### Product Owner
+Jeder der am Produkt beteiligt ist gilt als Product Owner und kann eigenständig zur Verbesserung der Software beitragen. Hierzu können sie entweder andere Product Owner direkt anweisen oder sie nehmen die notwendigen Änderungen gleich an Ort und Stelle vor, falls sie denn über die notwendigen Kompetenzen verfügen.
+
+### Early Adopter
+Early Adopter sind die Grundpfeiler der Qualitätssicherung in der fragilen Softwareentwicklung, denn nur sie können einschätzen wie der Arbeitsprozess an die neuen Fähigkeiten der Software angepasst werden muss. Sollten Fehler auftreten, die ein Arbeiten mit der Applikation unmöglichen machen, so ist es die Pflicht des Early Adopters andere Product Owner auf jenen Umstand hinzuweisen. Dies geschieht möglichst zeitnah per Telefon und mit der notwendigen Schärfe in der Wortwahl um ein zügiges Beheben der Problemstellen voran zu treiben.
+
+Die Rolle der Early Adopter macht die fragile Softwareentwicklung so produktiv, da sie es ermöglicht das gesamte zeitliche Budget für die Umsetzung neuer Features zu nutzen.
+
 ## Events
 ...
 
@@ -48,7 +56,10 @@ Der SCUM Master ist die Exekutive des Fragile Process Committees und sorgt mit h
 ...
 
 ### E-Mail Thread
-Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread für einen einheitlichen Broadcast von Informationen an jeden den es interessiert. Hierzu sind folgende Spielregeln einzuhalten:
+Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread für einen einheitlichen Broadcast von Informationen an jeden den es interessieren könnte. Hierzu sind folgende Verhaltensregeln einzuhalten:
 * Um einen Fork des Threads zu vermeiden muss immer in einheitlichen Zeitabstand und niemals parallel geantwortet werden.
 * Antworten sind grundsätzlich an alle Personen im E-Mailverteiler zu richten.
-* Antworten in den Aussagen anderer Personen sind farblich hervor zu heben.
+* Beschreibungen sind möglichst farblich einheitlich und direkt unterhalb der Ursprungsaussage einzubringen.
+
+## Praxistipps
+* Produktivumgebung und Testumgebung sind nach möglichkeit ein und das selbe um den Aufwand bei der Erstellung von Tests zu verringern. Wenn sie aus irgend einem Grund doch getrennt sind, ist die Produktivumgebung aktueller zu halten als die Testumgebung um Anpassungen an den Tests zu vermeiden.
