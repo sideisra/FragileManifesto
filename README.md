@@ -19,7 +19,7 @@ Je nach Rolle ergibt sich ein eigenes Reifegradmodell. Dabei muss je nach Rolle 
 3. Fragile Expert
 
 Kombiniert mit den verfügbaren Rollen ergeben sich daraus zum Beispiel folgende Zertifizierungspfade:
-* SCUM Master Practitioner -> Professional SCUM Master -> Expert SCRUM Master 
+* SCUM Master Practitioner -> Professional SCUM Master -> Expert SCUM Master 
 * Product Owner Practitioner ->Professional Product Owner -> Expert Product Owner
 
 # Fragiles Manifest
